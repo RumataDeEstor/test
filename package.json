@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "it's a test",
+  "main": "index.js",
+  "dependencies": {
+    "consolidate": "^0.14.0",
+    "ejs": "^2.4.1",
+    "jade": "^1.11.0",
+    "node-static": "^0.7.7",
+    "serve-static": "^1.10.2"
+  },
+  "devDependencies": {
+    "clean-css": "^3.4.12",
+    "express": "^4.13.4"
+  },
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RumataDeEstor/test.git"
+  },
+  "author": "Rumata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RumataDeEstor/test/issues"
+  },
+  "homepage": "https://github.com/RumataDeEstor/test#readme"
+}
